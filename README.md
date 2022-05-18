@@ -1,8 +1,15 @@
-# feedback_widget
+<h1 align="center"> FEEDBACK WIDGET </h1>
 
-## Bibliotecas utilizadas
+## ✔️ Tecnologias utilizadas
+- JavaScript
+- React
+- TypeScript
+- NodeJS
 
-[TailwindCSS](https://tailwindcss.com/docs/installation/using-postcss)
+
+## 🛠️ Bibliotecas utilizadas
+
+- [TailwindCSS](https://tailwindcss.com/docs/installation/using-postcss)
 Biblioteca CSS
 
 ```
@@ -14,7 +21,7 @@ npx tailwindcss init
 
 ```
 
- - Arquivo tailwind.config.js
+ Arquivo tailwind.config.js
 
 ```
 module.exports = {
@@ -26,7 +33,7 @@ module.exports = {
 } 
 ```
 
- - Arquivo main.css
+Arquivo main.css
 
 ` @tailwind base;
 @tailwind components;
@@ -34,12 +41,12 @@ module.exports = {
 
 
 
-[Phosphor Icons](https://phosphoricons.com/)
+- [Phosphor Icons](https://phosphoricons.com/)
 Biblioteca de ícones
 
 `npm install phosphor-react`
 
-[Headless UI](https://headlessui.dev/react/popover)
+- [Headless UI](https://headlessui.dev/react/popover)
 Biblioteca de acessibilidade
 
 `npm install @headlessui/react`
